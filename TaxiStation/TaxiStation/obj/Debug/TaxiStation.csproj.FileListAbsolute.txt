@@ -1,0 +1,30 @@
+c:\users\oag\documents\visual studio 2012\Projects\TaxiStation\TaxiStation\bin\Debug\TaxiStation.exe.config
+c:\users\oag\documents\visual studio 2012\Projects\TaxiStation\TaxiStation\bin\Debug\TaxiStation.exe
+c:\users\oag\documents\visual studio 2012\Projects\TaxiStation\TaxiStation\bin\Debug\TaxiStation.pdb
+c:\users\oag\documents\visual studio 2012\Projects\TaxiStation\TaxiStation\obj\Debug\TaxiStation.csprojResolveAssemblyReference.cache
+c:\users\oag\documents\visual studio 2012\Projects\TaxiStation\TaxiStation\obj\Debug\TaxiStation.exe
+c:\users\oag\documents\visual studio 2012\Projects\TaxiStation\TaxiStation\obj\Debug\TaxiStation.pdb
+C:\Users\oag\Desktop\TaxiStation\TaxiStation\bin\Debug\TaxiStation.exe.config
+C:\Users\oag\Desktop\TaxiStation\TaxiStation\obj\Debug\TaxiStation.exe
+C:\Users\oag\Desktop\TaxiStation\TaxiStation\obj\Debug\TaxiStation.pdb
+C:\Users\oag\Desktop\TaxiStation\TaxiStation\bin\Debug\TaxiStation.exe
+C:\Users\oag\Desktop\TaxiStation\TaxiStation\bin\Debug\TaxiStation.pdb
+C:\Users\oag\Desktop\TaxiStation\TaxiStation\obj\Debug\TaxiStation.csprojResolveAssemblyReference.cache
+d:\TaxiStation\TaxiStation\bin\Debug\TaxiStation.exe.config
+d:\TaxiStation\TaxiStation\obj\Debug\TaxiStation.exe
+d:\TaxiStation\TaxiStation\obj\Debug\TaxiStation.pdb
+d:\TaxiStation\TaxiStation\bin\Debug\TaxiStation.exe
+d:\TaxiStation\TaxiStation\bin\Debug\TaxiStation.pdb
+d:\TaxiStation\TaxiStation\obj\Debug\TaxiStation.csprojResolveAssemblyReference.cache
+d:\TaxiStation\CheckPoint\TaxiStation\bin\Debug\TaxiStation.exe.config
+d:\TaxiStation\CheckPoint\TaxiStation\obj\Debug\TaxiStation.exe
+d:\TaxiStation\CheckPoint\TaxiStation\obj\Debug\TaxiStation.pdb
+d:\TaxiStation\CheckPoint\TaxiStation\bin\Debug\TaxiStation.exe
+d:\TaxiStation\CheckPoint\TaxiStation\bin\Debug\TaxiStation.pdb
+d:\TaxiStation\CheckPoint\TaxiStation\obj\Debug\TaxiStation.csprojResolveAssemblyReference.cache
+C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\bin\Debug\TaxiStation.exe.config
+C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\obj\Debug\TaxiStation.exe
+C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\obj\Debug\TaxiStation.pdb
+C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\bin\Debug\TaxiStation.exe
+C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\bin\Debug\TaxiStation.pdb
+C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\obj\Debug\TaxiStation.csprojResolveAssemblyReference.cache
