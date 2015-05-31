@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-
-namespace CarPark.ClassCarPark
+namespace TaxiStation.ClassTaxiStation
 {
-    public class Sedan : Cars
+    public class Crossover:Cars
     {
+        
     }
 }

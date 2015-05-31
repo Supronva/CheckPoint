@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using CarPark.ClassCarPark;
-using CarPark.InterfaceCarPark;
+using TaxiStation.ClassTaxiStation;
+using TaxiStation.InterfaceTaxiStation;
 
-namespace CarPark
+namespace TaxiStation
 {
     public interface ICars: IVehicle
     {

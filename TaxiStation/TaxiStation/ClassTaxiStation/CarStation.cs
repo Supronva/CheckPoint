@@ -4,13 +4,14 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CarPark.InterfaceCarPark;
+using TaxiStation.InterfaceTaxiStation;
 
-namespace CarPark.ClassCarPark
+namespace TaxiStation.ClassTaxiStation
 {
     public class CarStation:ICollection<IVehicle>
     {
         #region Fields
+
         private string collectionNameTaxiStation;
 
         private ICollection<IVehicle> vehicles = new List<IVehicle>();
@@ -80,24 +81,17 @@ namespace CarPark.ClassCarPark
             vehicles = newList;
         }
 
+
         public void SortBy()
         {
             this.Sort(new VehicleComparerByExpenseFuel());
         }
 
+
+
         public IEnumerable<IVehicle> GetCarsDiapasoneForSpeedCar(double lowvalue, double highvalue)
         {
             return vehicles.Where(x => (x.SpeedCar >= lowvalue && x.SpeedCar<= highvalue));
-        }
-
-        private static int NewMethod(CarStation station)
-        {
-            int s = 0;
-            foreach (var i in station)
-            {
-                s += i.PriceCar;
-            }
-            return s;
         }
         #endregion
     }
