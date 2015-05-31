@@ -3,13 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace TaxiStation.ClassTaxiStation
+namespace CarPark.ClassCarPark
 {
     public class SportsCar : Cars, ITuning
     {
-
-        public ListTuning Listtuning { get; set; }//тюниг
-       
-        
+        public ListTuning Listtuning { get; set; }
     }
 }

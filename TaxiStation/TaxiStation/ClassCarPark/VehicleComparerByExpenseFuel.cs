@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TaxiStation.InterfaceTaxiStation;
+using CarPark.InterfaceCarPark;
 
-namespace TaxiStation.ClassTaxiStation
+namespace CarPark.ClassCarPark
 {
     class VehicleComparerByExpenseFuel :IComparer<IVehicle>
     {

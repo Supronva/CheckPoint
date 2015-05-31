@@ -7,7 +7,7 @@
     <ProjectGuid>{8CF0C685-2E78-46F0-9114-96AA138E075F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TaxiStation</RootNamespace>
+    <RootNamespace>CarPark</RootNamespace>
     <AssemblyName>TaxiStation</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -41,31 +41,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClassTaxiStation\ClassCars\Cars.cs" />
-    <Compile Include="ClassTaxiStation\CoutPassengerSeat.cs" />
-    <Compile Include="ClassTaxiStation\ListTuning.cs" />
-    <Compile Include="ClassTaxiStation\MarkaVehicle.cs" />
-    <Compile Include="ClassTaxiStation\ClassCars\Coupe.cs" />
-    <Compile Include="ClassTaxiStation\ClassCars\Crossover.cs" />
-    <Compile Include="ClassTaxiStation\ClassCars\Hatchback.cs" />
-    <Compile Include="ClassTaxiStation\ClassCars\Minivan.cs" />
-    <Compile Include="ClassTaxiStation\TypeFuel.cs" />
-    <Compile Include="ClassTaxiStation\VehicleComparerByExpenseFuel.cs" />
-    <Compile Include="ClassTaxiStation\CarStation.cs" />
-    <Compile Include="ClassTaxiStation\Vehicle.cs" />
-    <Compile Include="InterfaceTaxiStation\IConvertibleTop.cs" />
-    <Compile Include="InterfaceTaxiStation\ICars.cs" />
-    <Compile Include="InterfaceTaxiStation\IVehicle.cs" />
-    <Compile Include="InterfaceTaxiStation\ITuning.cs" />
+    <Compile Include="ClassCarPark\ClassCars\Cars.cs" />
+    <Compile Include="EnumElements\CoutPassengerSeat.cs" />
+    <Compile Include="EnumElements\ListTuning.cs" />
+    <Compile Include="EnumElements\MarkaVehicle.cs" />
+    <Compile Include="ClassCarPark\ClassCars\Coupe.cs" />
+    <Compile Include="ClassCarPark\ClassCars\Crossover.cs" />
+    <Compile Include="ClassCarPark\ClassCars\Hatchback.cs" />
+    <Compile Include="ClassCarPark\ClassCars\Minivan.cs" />
+    <Compile Include="EnumElements\TypeFuel.cs" />
+    <Compile Include="ClassCarPark\VehicleComparerByExpenseFuel.cs" />
+    <Compile Include="ClassCarPark\CarStation.cs" />
+    <Compile Include="ClassCarPark\Vehicle.cs" />
+    <Compile Include="InterfaceCarPark\IConvertibleTop.cs" />
+    <Compile Include="InterfaceCarPark\ICars.cs" />
+    <Compile Include="InterfaceCarPark\IVehicle.cs" />
+    <Compile Include="InterfaceCarPark\ITuning.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ClassTaxiStation\ClassCars\Sedan.cs" />
-    <Compile Include="ClassTaxiStation\ClassCars\SportsCar.cs" />
-    <Compile Include="ClassTaxiStation\ClassCars\StationWagon.cs" />
+    <Compile Include="ClassCarPark\ClassCars\Sedan.cs" />
+    <Compile Include="ClassCarPark\ClassCars\SportsCar.cs" />
+    <Compile Include="ClassCarPark\ClassCars\StationWagon.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagramTaxiStation.cd" />
+    <None Include="ClassDiagramCarPark.cd" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

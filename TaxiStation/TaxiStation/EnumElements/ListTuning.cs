@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TaxiStation.ClassTaxiStation
+namespace CarPark.ClassCarPark
 {
-    public enum TypeFuel
+   public enum ListTuning
     {
-        Diesel,
-        Benzine
-
+       Turbo,
+       ExtendedEngine
     }
 }
