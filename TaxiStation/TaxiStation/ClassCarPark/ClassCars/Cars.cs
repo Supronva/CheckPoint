@@ -4,12 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TaxiStation.ClassTaxiStation
+namespace CarPark.ClassCarPark
 {
     public abstract class Cars : Vehicle,ICars
     {
-
-        public CoutPassengerSeat CoutPassengerSeat { get; set; } //кол-во пассажиров
-        
+        public CoutPassengerSeat CoutPassengerSeat { get; set; }
     }
 }

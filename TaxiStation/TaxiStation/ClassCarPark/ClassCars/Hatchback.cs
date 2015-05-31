@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 
 
-namespace TaxiStation.ClassTaxiStation
+namespace CarPark.ClassCarPark
 {
-    public class StationWagon:Cars
+    public class Hatchback: Cars
     {
     }
 }

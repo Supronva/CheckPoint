@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using TaxiStation.ClassTaxiStation;
+using CarPark.ClassCarPark;
 
-namespace TaxiStation
+namespace CarPark
 {
     public interface ITuning:ICars
     {

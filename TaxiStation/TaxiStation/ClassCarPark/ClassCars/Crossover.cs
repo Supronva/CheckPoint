@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace TaxiStation
+namespace CarPark.ClassCarPark
 {
-    public interface IConvertibleTop : ITuning
+    public class Crossover:Cars
     {
-        bool ConvertibleTop { get;}
     }
 }

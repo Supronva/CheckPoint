@@ -3,14 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TaxiStation.InterfaceTaxiStation;
+using CarPark.InterfaceCarPark;
 
-namespace TaxiStation.ClassTaxiStation
+namespace CarPark.ClassCarPark
 {
     public abstract class Vehicle : IVehicle
     {
-
-
         public MarkaVehicle MarkaVehicler { get; set; }
 
         public string Name { get; set; }
@@ -24,6 +22,5 @@ namespace TaxiStation.ClassTaxiStation
         public double VEngine { get; set; }
 
         public TypeFuel TypeFuel { get; set; }
-        
     }
 }
