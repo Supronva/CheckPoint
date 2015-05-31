@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CarPark.ClassCarPark;
+using TaxiStation.ClassTaxiStation;
 
-namespace CarPark.InterfaceCarPark
+namespace TaxiStation.InterfaceTaxiStation
 {
     public interface IVehicle
     {

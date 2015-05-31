@@ -4,12 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CarPark.ClassCarPark
+namespace TaxiStation.ClassTaxiStation
 {
     public enum CoutPassengerSeat
     {
         Two,
         Five,
         Eight
+    
     }
+    
+
 }

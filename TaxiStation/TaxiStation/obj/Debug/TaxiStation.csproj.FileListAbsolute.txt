@@ -28,6 +28,3 @@ C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\obj\
 C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\bin\Debug\TaxiStation.exe
 C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\bin\Debug\TaxiStation.pdb
 C:\Users\oag\Documents\GitHub\CheckPoint\TaxiStation\CheckPoint\TaxiStation\obj\Debug\TaxiStation.csprojResolveAssemblyReference.cache
-C:\Users\oag\Downloads\CheckPoint-master\TaxiStation\TaxiStation\bin\Debug\TaxiStation.exe.config
-C:\Users\oag\Downloads\CheckPoint-master\TaxiStation\TaxiStation\obj\Debug\TaxiStation.exe
-C:\Users\oag\Downloads\CheckPoint-master\TaxiStation\TaxiStation\obj\Debug\TaxiStation.pdb
